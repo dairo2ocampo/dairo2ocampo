@@ -1,8 +1,8 @@
-- 👋 Hola, Soy @dairo2ocampo
+- 👋 Hola, Soy DOweb
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA, Python, PHP7, JS, React, AWS
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...
+- 📫 How to reach me swsoftware@outlook.com
 
 <!---
 dairo2ocampo/dairo2ocampo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
